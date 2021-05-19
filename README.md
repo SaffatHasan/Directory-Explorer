@@ -2,6 +2,7 @@
 Tool that explores a given directory and outputs the largest N files (with absolute path and size).
 
 
+```java
 /**
  * This program provides a tool that given a name of a directory, explores all
  * its sub-directories and files and does two things: 
@@ -9,3 +10,4 @@ Tool that explores a given directory and outputs the largest N files (with absol
  * 		[2] Prints N largest files (with their sizes and absolute paths).
  * 
  */
+```
